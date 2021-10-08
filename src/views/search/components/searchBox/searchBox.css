@@ -1,0 +1,26 @@
+.search-box{width:100%;height:auto;
+  display:flex;align-items:center;
+  justify-content:center;
+  flex-direction: column;
+}
+input{width:100%;height:2.5rem;
+  border:none;
+  border-radius:.5rem;
+  padding:0 .5rem;
+  font-size:1.5rem;
+  
+}
+input :disabled{background:#555;}
+button{width:100%;height:auto;
+  padding:.5rem;
+  border-radius:.5rem;
+  margin-top:.3rem;
+  background:rgb(59, 68, 75);
+  color:#dedede;
+  border:none;
+  cursor: pointer;
+  font-size:1.5rem;}
+
+button :disabled{background:#555;}
+
+  

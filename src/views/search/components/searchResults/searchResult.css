@@ -1,0 +1,15 @@
+.search-results{width:100%;height:auto;
+  max-width:500px;min-height:100px;
+  margin: 0 auto;padding: 1rem 0;;
+  }
+.respuesta{padding:1rem;
+  margin-top:.5rem;
+  border-radius:.3rem;
+  box-shadow:0 0 8px 3px rgba(0,0,0,.5);;
+  background: #e8e7e7;}
+.error{width:100%;height:auto;
+  padding: 1rem;font-size:1.2rem;
+  background:#e3e703;color:rgb(30, 26, 36);
+  border-radius:.3rem;
+  box-shadow:0 0 8px 3px rgba(0,0,0,.5);;
+  font-weight: 900;text-align: center;}
