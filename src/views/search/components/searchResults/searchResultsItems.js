@@ -3,7 +3,7 @@
 export default function SearchResultsItems({ name, email }) {
   return (
     <div className="respuesta">
-    <p>{ name }</p>
+    <p><b>{ name }</b></p>
     <p>{ email }</p>
   </div>
   );

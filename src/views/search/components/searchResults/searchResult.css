@@ -9,7 +9,7 @@
   background: #e8e7e7;}
 .error{width:100%;height:auto;
   padding: 1rem;font-size:1.2rem;
-  background:#e3e703;color:rgb(30, 26, 36);
+  background:#e3e703;color:#1e1a24;
   border-radius:.3rem;
   box-shadow:0 0 8px 3px rgba(0,0,0,.5);;
   font-weight: 900;text-align: center;}
